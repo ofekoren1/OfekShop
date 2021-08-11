@@ -1,0 +1,40 @@
+E:\אופק 2015\OfekShop1\bin\Debug\OfekShop1.exe
+E:\אופק 2015\OfekShop1\bin\Debug\OfekShop1.pdb
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.Properties.Resources.resources
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.exe
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.pdb
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.Ordes.resources
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmCustomers.resources
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmMaimMenu.resources
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmMenu.resources
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmSalary.resources
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmWaiters.resources
+E:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.csproj.GenerateResource.Cache
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.exe
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.pdb
+F:\אופק 2015\OfekShop1\bin\Debug\OfekShop1.exe
+F:\אופק 2015\OfekShop1\bin\Debug\OfekShop1.pdb
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmCustomers.resources
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmMaimMenu.resources
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmMenu.resources
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.Ordes.resources
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.Properties.Resources.resources
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmSalary.resources
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.frmWaiters.resources
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.csproj.GenerateResource.Cache
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.csprojAssemblyReference.cache
+F:\אופק 2015\OfekShop1\obj\x86\Debug\OfekShop1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.frmCustomers.resources
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.frmMaimMenu.resources
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.frmMenu.resources
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.Ordes.resources
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.frmSalary.resources
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.frmWaiters.resources
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.exe
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.pdb
+C:\Users\User\Desktop\OfekShop1\bin\Debug\OfekShop1.exe
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.Properties.Resources.resources
+C:\Users\User\Desktop\OfekShop1\obj\x86\Debug\OfekShop1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OfekShop1\bin\Debug\OfekShop1.pdb
